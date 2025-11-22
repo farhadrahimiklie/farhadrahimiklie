@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"   # Every 12 hours
   workflow_dispatch:
+  
+permissions:
+  contents: write   # <--- This gives GitHub Actions permission to update README
 
 jobs:
   update-readme:
