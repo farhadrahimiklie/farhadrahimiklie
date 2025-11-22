@@ -15,7 +15,7 @@ jobs:
       - name: Pull in latest YouTube videos
         uses: DenverCoder1/github-readme-youtube@v3.0
         with:
-          channel_id: UC4NUuO3aswFyxD3ngU5fvVA
+          channel_id: UC_8VaDaVHm7ZQbsDU8AXBHw
           readme_path: ./README.md
 
       - name: Commit changes
