@@ -1,0 +1,24 @@
+name: Update YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Pull in latest YouTube videos
+        uses: DenverCoder1/github-readme-youtube@v3.0
+        with:
+          channel_id: UC4NUuO3aswFyxD3ngU5fvVA
+          readme_path: ./README.md
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Updated YouTube videos"
