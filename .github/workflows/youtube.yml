@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Pull in latest YouTube videos
-        uses: DenverCoder1/github-readme-youtube-cards@v3
+        uses: DenverCoder1/github-readme-youtube-cards@33e77b474b3e1babe8f88f77ecba7593f50d8727
         with:
           channel_id: UC_8VaDaVHm7ZQbsDU8AXBHw
           readme_path: ./README.md
