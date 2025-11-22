@@ -34,14 +34,6 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 **CashBook Website**
-Full responsive CashBook web app using **Next.js + Express.js + MongoDB**.
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=farhadrahimiklie&repo=cashbook)](https://github.com/farhadrahimiklie/cashbook)
-
----
 
 ## 📊 GitHub Stats
 
@@ -57,7 +49,7 @@ Full responsive CashBook web app using **Next.js + Express.js + MongoDB**.
 ---
 
 ## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=farhadrahimiklie&margin-w=5&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=farhadrahimiklie&margin-w=5)
 
 ---
 
