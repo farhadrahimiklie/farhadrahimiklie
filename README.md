@@ -33,8 +33,8 @@ Passionate about coding, teaching, problem-solving, and building useful software
 ## 🎬 Latest YouTube Videos  
 *(Auto-Updating Every 12 Hours)*
 
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 ---
