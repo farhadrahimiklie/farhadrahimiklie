@@ -53,6 +53,11 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=farhadrahimiklie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 ## 🙏 Support My Work
 If you enjoy my videos, tutorials, and open-source projects, consider sharing my work or following me on YouTube ❤️
 
