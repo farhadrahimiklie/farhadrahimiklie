@@ -1,7 +1,4 @@
-<!-- PROFILE HEADER -->
-<img src="https://github.com/farhadrahimiklie.png" width="120" align="right" />
-
-# 👋 Hi, I'm **Farhad Rahimi Klie**
+# 📟**Farhad Rahimi Klie**
 **Enthusiast Programmer** • Developer • Tech Content Creator  
 Passionate about coding, teaching, problem-solving, and building useful software.
 
