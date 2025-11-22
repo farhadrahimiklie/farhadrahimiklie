@@ -15,7 +15,7 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 ---
 
 ## 🛠️ Tech Stack (All Technologies)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,redux,react,nextjs,express,nodejs,python,django,djangorestframework,docker,bash,linux,git,c,cpp,terminal,github,dsa,sql,mysql,postgresql,sqlite,mongodb,mongoose,cassandra,mariadb)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,redux,react,nextjs,express,nodejs,python,django,docker,bash,linux,git,c,cpp,github,mysql,postgresql,sqlite,mongodb,cassandra)
 
 
 ---
