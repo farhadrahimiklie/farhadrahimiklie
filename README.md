@@ -1,6 +1,8 @@
 # 📟**Farhad Rahimi Klie**
-**Enthusiast Programmer** • Developer • Tech Content Creator  
-Passionate about coding, teaching, problem-solving, and building useful software.
+
+**`Enthusiast Programmer (Content Creator)`**
+
+I'm an **Enthusiast Programmer** who loves creating educational content. I make **YouTube videos** about programming, databases, OS, shell scripting, and more. My goal is to teach complex topics in a **simple, beginner-friendly way**.
 
 ---
 
@@ -17,18 +19,7 @@ Passionate about coding, teaching, problem-solving, and building useful software
 
 ---
 
-## 📖 About Me
-
-- 🔥 I'm an **Enthusiast Programmer** who loves creating educational content.  
-- 🎥 I make **YouTube videos** about programming, databases, OS, shell scripting, and more.  
-- 🧠 Currently learning **System Design**, **Database internals**, and **Advanced C++**.  
-- 🚀 I enjoy building **full-stack applications**, **tools**, and **developer utilities**.  
-- 💡 My goal is to teach complex topics in a **simple, beginner-friendly way**.
-
----
-
 ## 🎬 Latest YouTube Videos  
-*(Auto-Updating Every 12 Hours)*
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![توابع در Shell Scripting (Functions in Shell Scripting)](https://ytcards.demolab.com/?id=ZXqktuAHa6o&title=%D8%AA%D9%88%D8%A7%D8%A8%D8%B9+%D8%AF%D8%B1+Shell+Scripting+%28Functions+in+Shell+Scripting%29&lang=en&timestamp=1763784586&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "توابع در Shell Scripting (Functions in Shell Scripting)")](https://www.youtube.com/watch?v=ZXqktuAHa6o)
