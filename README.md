@@ -1,5 +1,5 @@
 # 📟**Farhad Rahimi Klie**
-
+<img src="https://komarev.com/ghpvc/?username=farhadrahimiklie&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 **`Enthusiast Programmer (Content Creator)`**
 
 I'm an **Enthusiast Programmer** who loves creating educational content. I make **YouTube videos** about programming, databases, OS, shell scripting, and more. My goal is to teach complex topics in a **simple, beginner-friendly way**.
@@ -57,7 +57,12 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=farhadrahimiklie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=farhadrahimiklie&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=86400)
+
+
+---
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=farhadrahimiklie&theme=react-dark)
 
 ---
 
