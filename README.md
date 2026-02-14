@@ -51,8 +51,7 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 ---
 
 ## 🏆 GitHub Achievements
-
-![](https://github-profile-trophy.vercel.app/?username=farhadrahimiklie&theme=radical&no-frame=true&row=1&column=4)
+![](https://github-profile-trophy-git-master-rio-chandra.vercel.app/?username=farhadrahimiklie&theme=radical&no-frame=true&row=1&column=6)
 
 
 ---
