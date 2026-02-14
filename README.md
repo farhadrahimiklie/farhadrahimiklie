@@ -9,7 +9,6 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@farhadrahimiklie)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to)](https://dev.to/farhadrahimiklie)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/iamfarhadklie)
 ![Profile Views](https://komarev.com/ghpvc/?username=farhadrahimiklie&style=for-the-badge)
 
 ---
