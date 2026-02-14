@@ -47,6 +47,9 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 
 </p>
 
+## 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=farhadrahimiklie&theme=react-dark)
+
 
 ---
 
