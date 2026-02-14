@@ -39,9 +39,9 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=farhadrahimiklie&show_icons=true&theme=radical&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=farhadrahimiklie&show_icons=true&theme=radical&hide_border=true" height="160"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadrahimiklie&layout=compact&theme=radical&cache_seconds=86400" height="160" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=farhadrahimiklie&layout=compact&theme=radical&hide_border=true" height="160"/>
 
 <img src="https://streak-stats.demolab.com?user=farhadrahimiklie&theme=radical&cache_seconds=86400" height="180"/>
 
