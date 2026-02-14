@@ -39,17 +39,20 @@ I'm an **Enthusiast Programmer** who loves creating educational content. I make 
 
 <p align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=farhadrahimiklie&show_icons=true&theme=default" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=farhadrahimiklie&layout=compact" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=farhadrahimiklie&show_icons=true&theme=radical&cache_seconds=86400" height="160" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=farhadrahimiklie" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhadrahimiklie&layout=compact&theme=radical&cache_seconds=86400" height="160" />
+
+<img src="https://streak-stats.demolab.com?user=farhadrahimiklie&theme=radical&cache_seconds=86400" height="180"/>
 
 </p>
+
 
 ---
 
 ## 🏆 GitHub Achievements
-![](https://github-profile-trophy.vercel.app/?username=farhadrahimiklie&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=farhadrahimiklie&theme=radical&no-frame=true&margin-w=8&margin-h=8&cache_seconds=86400)
+
 
 ---
 
