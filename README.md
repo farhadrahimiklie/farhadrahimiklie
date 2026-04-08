@@ -4,8 +4,6 @@
 <!-- **`Programming Instructor ( مدرس برنامه نویسی )`** -->
 <br>
 <!-- I'm an **Enthusiast Programmer** who loves creating educational content. I make **YouTube videos** about programming, databases, OS, shell scripting, and more. My goal is to teach complex topics in a **simple, beginner-friendly way**. -->
----
-
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@farhadrahimiklie)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000?style=for-the-badge&logo=dev.to)](https://dev.to/farhadrahimiklie)
