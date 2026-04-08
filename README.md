@@ -1,10 +1,10 @@
 # 🖥️**Farhad Rahimi Klie**
 
 **`Enthusiast Programmer (Content Creator)`**
+<!-- **`Programming Instructor ( مدرس برنامه نویسی )`** -->
 <br>
-**`Programming Instructor ( مدرس برنامه نویسی )`**
-
-I'm an **Enthusiast Programmer** who loves creating educational content. I make **YouTube videos** about programming, databases, OS, shell scripting, and more. My goal is to teach complex topics in a **simple, beginner-friendly way**.
+💻I'm an **Enthusiast Programmer** – who Loves understanding how things work under the hood and turning **curiosity** into **code**.
+<!-- I'm an **Enthusiast Programmer** who loves creating educational content. I make **YouTube videos** about programming, databases, OS, shell scripting, and more. My goal is to teach complex topics in a **simple, beginner-friendly way**. -->
 
 ---
 
