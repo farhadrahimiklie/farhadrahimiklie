@@ -2,7 +2,6 @@
 
 **`Enthusiast Programmer`**
 <!-- **`Programming Instructor ( مدرس برنامه نویسی )`** -->
-<br>
 
 ## 🌐 Connect With Me
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@farhadrahimiklie)
