@@ -19,12 +19,7 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Father of all languages](https://ytcards.demolab.com/?id=UcOWKxADkeU&title=Father+of+all+languages&lang=en&timestamp=1776144290&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Father of all languages")](https://www.youtube.com/shorts/UcOWKxADkeU)
-[![CPU چگونه داده را از RAM میخواند](https://ytcards.demolab.com/?id=H6HMnAmhflY&title=CPU+%DA%86%DA%AF%D9%88%D9%86%D9%87+%D8%AF%D8%A7%D8%AF%D9%87+%D8%B1%D8%A7+%D8%A7%D8%B2+RAM+%D9%85%DB%8C%D8%AE%D9%88%D8%A7%D9%86%D8%AF&lang=en&timestamp=1770708888&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CPU چگونه داده را از RAM میخواند")](https://www.youtube.com/shorts/H6HMnAmhflY)
-[![ALU (Arithmetic Logic Unit)](https://ytcards.demolab.com/?id=7lLnJasvPtA&title=ALU+%28Arithmetic+Logic+Unit%29&lang=en&timestamp=1767874030&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ALU (Arithmetic Logic Unit)")](https://www.youtube.com/shorts/7lLnJasvPtA)
-[![Registers](https://ytcards.demolab.com/?id=5Lbpe0NO1yA&title=Registers&lang=en&timestamp=1767848047&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Registers")](https://www.youtube.com/shorts/5Lbpe0NO1yA)
-[![What is Your First Programming Language](https://ytcards.demolab.com/?id=sQBb4teNoLM&title=What+is+Your+First+Programming+Language&lang=en&timestamp=1765608410&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What is Your First Programming Language")](https://www.youtube.com/shorts/sQBb4teNoLM)
-[![Binary](https://ytcards.demolab.com/?id=3wyx4cu9gqM&title=Binary&lang=en&timestamp=1764646354&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Binary")](https://www.youtube.com/shorts/3wyx4cu9gqM)
+
 <!-- END YOUTUBE-CARDS -->
 
 
