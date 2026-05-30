@@ -19,12 +19,12 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Linked List](https://ytcards.demolab.com/?id=8ngFfb6Tf9w&title=Linked+List&lang=en&timestamp=1780107045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linked List")](https://www.youtube.com/shorts/8ngFfb6Tf9w)
 [![Linked List DSA](https://ytcards.demolab.com/?id=so62wSZmnmE&title=Linked+List+DSA&lang=en&timestamp=1780021952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linked List DSA")](https://www.youtube.com/shorts/so62wSZmnmE)
 [![Bits 0s & 1s](https://ytcards.demolab.com/?id=5RfIW47_06A&title=Bits+0s+%26+1s&lang=en&timestamp=1779934909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bits 0s & 1s")](https://www.youtube.com/shorts/5RfIW47_06A)
 [![Dynamic Array explained](https://ytcards.demolab.com/?id=s5nzAWf9c1w&title=Dynamic+Array+explained&lang=en&timestamp=1779845675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dynamic Array explained")](https://www.youtube.com/shorts/s5nzAWf9c1w)
 [![Binary Number System](https://ytcards.demolab.com/?id=fqkzHXNu1tk&title=Binary+Number+System&lang=en&timestamp=1779758486&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Binary Number System")](https://www.youtube.com/shorts/fqkzHXNu1tk)
 [![Array Data Structure](https://ytcards.demolab.com/?id=ncFl4Em0D_c&title=Array+Data+Structure&lang=en&timestamp=1779689202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Array Data Structure")](https://www.youtube.com/shorts/ncFl4Em0D_c)
-[![Favorite Language #programming #coding](https://ytcards.demolab.com/?id=ma8-gcEpFlo&title=Favorite+Language+%23programming+%23coding&lang=en&timestamp=1778765578&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Favorite Language #programming #coding")](https://www.youtube.com/shorts/ma8-gcEpFlo)
 <!-- END YOUTUBE-CARDS -->
 
 
