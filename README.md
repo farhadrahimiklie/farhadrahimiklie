@@ -19,12 +19,7 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Stack Data Structure](https://ytcards.demolab.com/?id=Lzsk9cL3Lkw&title=Stack+Data+Structure&lang=en&timestamp=1780366247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stack Data Structure")](https://www.youtube.com/shorts/Lzsk9cL3Lkw)
-[![معرفی ساختمان داده‌ها و الگوریتم‌ها | اولین قدم برای تبدیل شدن به برنامه‌نویس حرفه‌ای](https://ytcards.demolab.com/?id=FFyPmKicnzM&title=%D9%85%D8%B9%D8%B1%D9%81%DB%8C+%D8%B3%D8%A7%D8%AE%D8%AA%D9%85%D8%A7%D9%86+%D8%AF%D8%A7%D8%AF%D9%87%E2%80%8C%D9%87%D8%A7+%D9%88+%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7+%7C+%D8%A7%D9%88%D9%84%DB%8C%D9%86+%D9%82%D8%AF%D9%85+%D8%A8%D8%B1%D8%A7%DB%8C+%D8%AA%D8%A8%D8%AF%DB%8C%D9%84+%D8%B4%D8%AF%D9%86+%D8%A8%D9%87+%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3+%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C&lang=en&timestamp=1780198238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "معرفی ساختمان داده‌ها و الگوریتم‌ها | اولین قدم برای تبدیل شدن به برنامه‌نویس حرفه‌ای")](https://www.youtube.com/watch?v=FFyPmKicnzM)
-[![Linked List](https://ytcards.demolab.com/?id=8ngFfb6Tf9w&title=Linked+List&lang=en&timestamp=1780107045&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linked List")](https://www.youtube.com/shorts/8ngFfb6Tf9w)
-[![Linked List DSA](https://ytcards.demolab.com/?id=so62wSZmnmE&title=Linked+List+DSA&lang=en&timestamp=1780021952&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Linked List DSA")](https://www.youtube.com/shorts/so62wSZmnmE)
-[![Bits 0s & 1s](https://ytcards.demolab.com/?id=5RfIW47_06A&title=Bits+0s+%26+1s&lang=en&timestamp=1779934909&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bits 0s & 1s")](https://www.youtube.com/shorts/5RfIW47_06A)
-[![Dynamic Array explained](https://ytcards.demolab.com/?id=s5nzAWf9c1w&title=Dynamic+Array+explained&lang=en&timestamp=1779845675&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dynamic Array explained")](https://www.youtube.com/shorts/s5nzAWf9c1w)
+
 <!-- END YOUTUBE-CARDS -->
 
 
