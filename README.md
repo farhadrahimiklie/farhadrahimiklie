@@ -19,7 +19,12 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![What is Git](https://ytcards.demolab.com/?id=jIrwhHxkeOQ&title=What+is+Git&lang=en&timestamp=1782271674&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "What is Git")](https://www.youtube.com/shorts/jIrwhHxkeOQ)
+[![کامپیوتر چطور کدهای ما را می‌فهمد؟](https://ytcards.demolab.com/?id=hUiaUfOz5y0&title=%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1+%DA%86%D8%B7%D9%88%D8%B1+%DA%A9%D8%AF%D9%87%D8%A7%DB%8C+%D9%85%D8%A7+%D8%B1%D8%A7+%D9%85%DB%8C%E2%80%8C%D9%81%D9%87%D9%85%D8%AF%D8%9F&lang=en&timestamp=1781408851&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "کامپیوتر چطور کدهای ما را می‌فهمد؟")](https://www.youtube.com/watch?v=hUiaUfOz5y0)
+[![چگونه برنامه نویس شویم؟ راهنمای کامل مبتدی ها](https://ytcards.demolab.com/?id=65c8VV0NG90&title=%DA%86%DA%AF%D9%88%D9%86%D9%87+%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87+%D9%86%D9%88%DB%8C%D8%B3+%D8%B4%D9%88%DB%8C%D9%85%D8%9F+%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C+%DA%A9%D8%A7%D9%85%D9%84+%D9%85%D8%A8%D8%AA%D8%AF%DB%8C+%D9%87%D8%A7&lang=en&timestamp=1781354566&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "چگونه برنامه نویس شویم؟ راهنمای کامل مبتدی ها")](https://www.youtube.com/watch?v=65c8VV0NG90)
+[![Searching Algorithms](https://ytcards.demolab.com/?id=IWFMD0pMbNI&title=Searching+Algorithms&lang=en&timestamp=1780713837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Searching Algorithms")](https://www.youtube.com/shorts/IWFMD0pMbNI)
+[![Queue Data Structure](https://ytcards.demolab.com/?id=K9PJbjJ5MX0&title=Queue+Data+Structure&lang=en&timestamp=1780538777&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Queue Data Structure")](https://www.youtube.com/shorts/K9PJbjJ5MX0)
+[![Stack Data Structure](https://ytcards.demolab.com/?id=Lzsk9cL3Lkw&title=Stack+Data+Structure&lang=en&timestamp=1780366247&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Stack Data Structure")](https://www.youtube.com/shorts/Lzsk9cL3Lkw)
 <!-- END YOUTUBE-CARDS -->
 
 
