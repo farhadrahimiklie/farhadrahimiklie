@@ -19,7 +19,12 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Which Programming Language is the Best ?](https://ytcards.demolab.com/?id=i9auRXZDHH4&title=Which+Programming+Language+is+the+Best+%3F&lang=en&timestamp=1784172602&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Which Programming Language is the Best ?")](https://www.youtube.com/shorts/i9auRXZDHH4)
+[![این دستور لینوکس، پردازش متن را برایم آسان‌تر کرد](https://ytcards.demolab.com/?id=PVj-TnfbDwU&title=%D8%A7%DB%8C%D9%86+%D8%AF%D8%B3%D8%AA%D9%88%D8%B1+%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3%D8%8C+%D9%BE%D8%B1%D8%AF%D8%A7%D8%B2%D8%B4+%D9%85%D8%AA%D9%86+%D8%B1%D8%A7+%D8%A8%D8%B1%D8%A7%DB%8C%D9%85+%D8%A2%D8%B3%D8%A7%D9%86%E2%80%8C%D8%AA%D8%B1+%DA%A9%D8%B1%D8%AF&lang=en&timestamp=1783913439&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "این دستور لینوکس، پردازش متن را برایم آسان‌تر کرد")](https://www.youtube.com/watch?v=PVj-TnfbDwU)
+[![AWK {text Processing language}](https://ytcards.demolab.com/?id=xmdYT7tDjyk&title=AWK+%7Btext+Processing+language%7D&lang=en&timestamp=1783654238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "AWK {text Processing language}")](https://www.youtube.com/shorts/xmdYT7tDjyk)
+[![مهارتی که سبک کار من را کاملاً تغییر داد](https://ytcards.demolab.com/?id=6Y8Y6YKu-6Y&title=%D9%85%D9%87%D8%A7%D8%B1%D8%AA%DB%8C+%DA%A9%D9%87+%D8%B3%D8%A8%DA%A9+%DA%A9%D8%A7%D8%B1+%D9%85%D9%86+%D8%B1%D8%A7+%DA%A9%D8%A7%D9%85%D9%84%D8%A7%D9%8B+%D8%AA%D8%BA%DB%8C%DB%8C%D8%B1+%D8%AF%D8%A7%D8%AF&lang=en&timestamp=1783395553&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "مهارتی که سبک کار من را کاملاً تغییر داد")](https://www.youtube.com/watch?v=6Y8Y6YKu-6Y)
+[![B Tree Data Structure](https://ytcards.demolab.com/?id=DfgMXdpw0L8&title=B+Tree+Data+Structure&lang=en&timestamp=1782444419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "B Tree Data Structure")](https://www.youtube.com/shorts/DfgMXdpw0L8)
+[![آرایه‌ها به زبان ساده](https://ytcards.demolab.com/?id=KzViO7T4Qjg&title=%D8%A2%D8%B1%D8%A7%DB%8C%D9%87%E2%80%8C%D9%87%D8%A7+%D8%A8%D9%87+%D8%B2%D8%A8%D8%A7%D9%86+%D8%B3%D8%A7%D8%AF%D9%87&lang=en&timestamp=1782354813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "آرایه‌ها به زبان ساده")](https://www.youtube.com/watch?v=KzViO7T4Qjg)
 <!-- END YOUTUBE-CARDS -->
 
 
