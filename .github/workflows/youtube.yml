@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
       - name: pull in latest YouTube videos
         uses: DenverCoder1/github-readme-youtube-cards@33e77b474b3e1babe8f88f77ecba7593f50d8727
