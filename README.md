@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Tech Stack (All Technologies)
-![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,redux,react,nextjs,express,nodejs,python,django,docker,bash,linux,git,c,cpp,github,mysql,postgresql,sqlite,mongodb,cassandra,redis,assembly)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,redux,react,nextjs,express,nodejs,python,django,docker,bash,linux,git,c,cpp,github,mysql,postgresql,sqlite,mongodb,cassandra,redis,assem)
 
 
 ---
