@@ -13,16 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: pull in latest YouTube videos
-        uses: DenverCoder1/github-readme-youtube-cards@33e77b474b3e1babe8f88f77ecba7593f50d8727
+        uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UC_8VaDaVHm7ZQbsDU8AXBHw
           readme_path: ./README.md
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          commit_message: "Updated YouTube videos"
