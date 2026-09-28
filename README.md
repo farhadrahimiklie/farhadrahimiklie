@@ -41,12 +41,6 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=farhadrahimiklie&limit=5&theme=radical&combine_all_yearly_contributions=true&cache_seconds=86400)
-
-
----
-
 ![](https://github-readme-activity-graph.vercel.app/graph?username=farhadrahimiklie&theme=react-dark)
 
 ---
