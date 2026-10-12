@@ -19,7 +19,7 @@
 ## 🎬 Latest YouTube Videos  
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![با mmap مستقیماً با حافظه RAM کار کن](https://ytcards.demolab.com/?id=dJH0LALaZ8Q&title=%D8%A8%D8%A7+mmap+%D9%85%D8%B3%D8%AA%D9%82%DB%8C%D9%85%D8%A7%D9%8B+%D8%A8%D8%A7+%D8%AD%D8%A7%D9%81%D8%B8%D9%87+RAM+%DA%A9%D8%A7%D8%B1+%DA%A9%D9%86&lang=en&timestamp=1791716013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "با mmap مستقیماً با حافظه RAM کار کن")](https://www.youtube.com/watch?v=dJH0LALaZ8Q)
 <!-- END YOUTUBE-CARDS -->
 
 
